@@ -309,11 +309,6 @@ Author
 
 Pierre-Olivier Chasset
 
-Version
--------
-
-
-
 License
 -------
 
