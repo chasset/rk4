@@ -297,7 +297,7 @@ Runge-kutta 4th Order Method for the simulation software NetLogo
 Description
 -----------
 
-The program RK4 is a library for the simulation software NetLogo [1]. This library is performing an iterative method for the approximation of solutions of ordinary differential equations: the Runge-Kutta 4th Order Method [2]. This library works with any number of equations and any number of variables. It is delivered with a demonstration showing the Butterfly attractor [3, 4] studied by Edward Lorenz.
+The program RK4 (*rk4.nls*) is a library for the simulation software NetLogo [1]. This library is performing an iterative method for the approximation of solutions of ordinary differential equations: the Runge-Kutta 4th Order Method [2]. This library works with any number of equations and any number of variables. It is delivered with a demonstration (*rk4.nlogo*) showing the Butterfly attractor [3, 4] studied by Edward Lorenz.
 
 Resources
 ---------
@@ -308,6 +308,11 @@ Author
 ------
 
 Pierre-Olivier Chasset
+
+Version
+-------
+
+1.0.0
 
 License
 -------
