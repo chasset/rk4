@@ -11,7 +11,15 @@ tagline: Runge-Kutta 4th Order Method
 
 <h3>Resources</h3>
 
-<p>The current source code is available at <a href="https://github.com/chasset/rk4">GitHub</a>. A video shows a simulation using this package (<a href="http://pierre-olivier.chasset.net/rk4-growth-example/">growth example</a>).
+<p>The current source code is available at <a href="https://github.com/chasset/rk4">GitHub</a>. Several tutorials cover topics such as:</p>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.tagline }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 <h3>Author</h3>
 
