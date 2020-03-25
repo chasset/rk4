@@ -1,6 +1,8 @@
 Runge-kutta 4th Order Method for the simulation software NetLogo
 ================================================================
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3726973.svg)](https://doi.org/10.5281/zenodo.3726973)
+
 Description
 -----------
 
